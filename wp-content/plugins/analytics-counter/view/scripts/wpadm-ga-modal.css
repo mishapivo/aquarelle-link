@@ -1,0 +1,9 @@
+#wpadminbar {
+    display: none;
+}
+html.wp-toolbar {
+    padding-top: 0px;
+}
+body.settings_page_wpadm-ga-menu-settings {
+    overflow: hidden;
+}

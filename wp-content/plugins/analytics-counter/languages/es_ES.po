@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics Counter Tracker\n"
+"POT-Creation-Date: 2016-08-12 14:36+0400\n"
+"PO-Revision-Date: 2017-05-10 23:04+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: analytics-counter.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "Audience Overview"
+msgstr "Examen de la audiencia"
+
+msgid "Visitors Overview"
+msgstr "Examen de los visitantes"
+
+msgid "settings"
+msgstr "Opciones"
+
+msgid "Google Analytics service was unable to determine the site"
+msgstr "El servicio de Google Analytics no pudo determinar el sitio"
+
+msgid "Select a site"
+msgstr "Seleccione el sitio"
+
+msgid "Connect Google Analytics services"
+msgstr "Conectar el servicio de Google Analytics"
+
+msgid "Create Google Analytics account"
+msgstr "Crear una cuenta de Google Analytics"
+
+msgid "Since Google Analytics account was successfully created, please, connect the Google Analytics created account to this Google Analytics plugin, using the same access credentials data."
+msgstr "Si Google Analytics cuenta ya ha creada, por favor conecte usando los mismos datos de cuenta"
+
+msgid "Automatically generate Google Analytics Code"
+msgstr "Generar automáticamente el código de seguimiento de Google Analytics"
+
+msgid "Manually past Google Analytics Code"
+msgstr "Entrada manual de códico de seguimiento de Google Analytics"
+
+msgid "Click here to <a href=\"%s\">connect your Google Analytics account</a>, automatically generate Google Analytics code <br>and automatically past Google Analytics code in your website."
+msgstr "Haga clic en el <a href=\"%s\">conectar tu cuenta de Google Analytics</a> para generar automáticamente el código de seguimiento de Google Analytics<br>y colocar automáticamente en el sitio web"
+
+msgid "Manually past Google Analytics сode in HTML of your website, without to connect to Google Analytics services. More information about this you can read on <a href=\"https://support.google.com/analytics/answer/1008080\">Google Analytics support</a> pages."
+msgstr "Introducción manual del código de seguimiento de Google Analytics en su sitio web, sin conexión de servicio de Google Analytics. Más información sobre el código de seguimiento de leer en las páginas de <a href=\"https://support.google.com/analytics/answer/1008080\"> de asistencia de Google Analytics</a>."
+
+msgid "Please, past your Google Analytics code here:"
+msgstr "Por favor, introduzca aquí el código de seguimiento de Google Analytics"
+
+msgid "Save and integrate Google Analytics code"
+msgstr "Guardar y conectar el código de seguimiento de Google Analytics"
+
+msgid "The site reports about error! Please deactivate and activate plugin"
+msgstr "El sitio web informó sobre un error! Por favor desactive y vuelva a activar el plugin"
+
+msgid "Google Analytics service reports"
+msgstr "El servicio de Google Analytics informó"
+
+msgid "The site reports"
+msgstr "El sitio web informó"
+
+msgid "Suggestion"
+msgstr "Propuesta"
+
+msgid "Thanks for your suggestion!"
+msgstr "Gracias por su propuesta!"
+
+msgid "Within next plugin updates we will try to satisfy your request."
+msgstr "En las siguientes actualizaciones del plugin vamos a tratar de cumplir con su solicitud."
+
+msgid "At your website the mail functionality is not available."
+msgstr "Su sitio web no está disponible  el envío de correo"
+
+msgid "Your request was not sent."
+msgstr "Su solicitud no se ha enviado."
+
+msgid "close"
+msgstr "cerrar"
+
+msgid "Send suggestion"
+msgstr "Enviar propuesta"
+
+msgid "Account"
+msgstr "Cuenta"
+
+msgid "Integration"
+msgstr "Integración"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Google Analytics Account"
+msgstr "Cuenta de Google Analytics"
+
+msgid "Site"
+msgstr "Sitio web"
+
+msgid "loading..."
+msgstr "descarga..."
+
+msgid "Enable google analytics tracking code on subpages of selected website"
+msgstr "Activar el código de seguimiento de Google Analytics en las páginas del sitio"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "connected"
+msgstr "está conectado"
+
+msgid "Are you sure you want to disconnect from your Google Analytics account?"
+msgstr "Estás seguro de que quieres desconectar el plugin en su cuenta de Google Analytics?"
+
+msgid "Disconnect your Google Analytics Account"
+msgstr "Desactivar el plugin en una cuenta de Google Analytics"
+
+msgid "User does not have any Google Analytics account"
+msgstr "El usuario no tiene una cuenta de Google Analytics"
+
+msgid "Counter on the page/post"
+msgstr "El contador en el post/página"
+
+msgid "Contains information about the quantity of page views today, for the last month and for all time tracking."
+msgstr "Contiene información sobre el recuento de visitas de la página de hoy, en el último mes y por todo el tiempo de seguimiento."
+
+msgid "Display counter"
+msgstr "Mostrar el contador"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "No"
+msgstr "No"
+
+msgid "Location counter"
+msgstr "Contador de ubicación"
+
+msgid "Before the content"
+msgstr "Antes del contenido"
+
+msgid "The counter will be inserted between the title and the content of the page / post"
+msgstr "El contador será insertado entre el título y el contenido de la página / post"
+
+msgid "After the content"
+msgstr "Después del contenido"
+
+msgid "The counter will be inserted after the content of the page / post"
+msgstr "El contador será insertado después del contenido de la página / post"
+
+msgid "Template counter"
+msgstr "Plantilla de contador"
+
+msgid "Customize the html template of the counter."
+msgstr "Personalizar html pantilla del contador."
+
+msgid "Use <a href=\"%s\" class=\"thickbox\">shortcodes</a> that would indicate specific indicators"
+msgstr "Usar <a href=\"%s\" class=\"thickbox\">shortcodes</a> para mostrar los indicadores específicos"
+
+msgid "Then this template can be used anywhere by inserting the shortcode <code>%s</code>, even if the counter display is turned off."
+msgstr "Luego esta plantilla se puede utilizar en cualquier lugar mediante la inserción shortcode <code>%s</code>, incluso si el contador de la pantalla está desactivada."
+
+msgid "restore the default template"
+msgstr "restaurar la plantilla por defecto"
+
+msgid "The counter on the page the list of pages/posts"
+msgstr "El contador de la lista de post en la página/posts"
+
+msgid "Website counter"
+msgstr "El contador del sitio web"
+
+msgid "Contains information about the quantity of site views today, for the last month and for all time tracking."
+msgstr "Contiene información sobre el recuento de visitas del sitio el día de hoy, por mes y por todo el tiempo de seguimiento."
+
+msgid "Save"
+msgstr "Guardar los cambios"
+
+msgid "The template for counter displaying can be specified in the plugin settings."
+msgstr "La plantilla para el contador de la visualización puede ser especificado en la configuración del plugin."
+
+msgid "Views today for a particular page. If the parameter <code>request_uri</code> specified, - the indicator of the current page will be showed."
+msgstr "Vistas el día de hoy para una página en particular. Si el parámetro <code>request_uri</code> se especifica, - el indicador de la página actual será mostrado."
+
+msgid "Views last monthfor a particular page. If the parameter \"request_uri\" specified, - the indicator of the current page will be showed."
+msgstr "Vistas el mes pasado para una página en particular. Si el parámetro \"request_uri\" especificado, - el indicador de la página actual será mostrado."
+
+msgid "All views for a particular page. If the parameter \"request_uri\" specified, - the indicator of the current page will be showed."
+msgstr "Todos los puntos de vista de una página particular. Si el parámetro \"request_uri\" especificado, - el indicador de la página actual será mostrado."
+
+msgid "Site Views for Today"
+msgstr "Vistas del sitio para el día de hoy"
+
+msgid "Site Views for the last month"
+msgstr "Número de visitas de un sitio durante el mes pasado"
+
+msgid "Site Views for All tracking period"
+msgstr "Número de visitas del sitio por todo el tiempo de seguimiento"
+
+msgid "Frontend counter widget"
+msgstr "Widget"
+
+msgid "Location of widget for the website pages can be configured on the page <a href=\"%s\">Widgets</a>"
+msgstr "La ubicación del widget en las páginas del sitio se configura en la página <a href=\"%s\">Widgets</a>"
+
+msgid "Display widget"
+msgstr "Mostrar el widget"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Widget template"
+msgstr "Widget de plantilla"
+
+msgid "Customize the html template of the widget."
+msgstr "Personalizar la plantilla html del widget."
+
+msgid "Date range"
+msgstr "El rango de fecha"
+
+msgid "Group statistics data by"
+msgstr "Agrupar por"
+
+msgid "Hour"
+msgstr "Horas"
+
+msgid "Day"
+msgstr "Diás"
+
+msgid "Week"
+msgstr "Semans"
+
+msgid "Month"
+msgstr "Meses"
+
+msgid "If you have any suggestions or wishes"
+msgstr "Si usted tiene algun propósito o comentario"
+
+msgid "Contact us"
+msgstr "Póngase en contacto con nosotros"
+
+msgid "Settings"
+msgstr "Opciones"
+
+msgid "Users"
+msgstr "Visitantes"
+
+msgid "New users"
+msgstr "Visitantes nuevos"
+
+msgid "All unique users and new users"
+msgstr "Todos los visitantes únicos y visitantes nuevos"
+
+msgid "Top countries by users"
+msgstr "La parte superior de los países por usuarios"
+
+msgid "Geo statistics data by users"
+msgstr "En la mapa"
+
+msgid "Top browsers"
+msgstr "Los navegadores superiores"
+
+msgid "Top operating systems"
+msgstr "Sistemas operativas superiores"
+
+msgid "Top screen resolutions"
+msgstr "resoluciones de pantalla"
+
+msgid "Sessions and page views"
+msgstr "sesiones y las vistas de página"
+
+msgid "Sessions"
+msgstr "Números de sesiones"
+
+msgid "Page views"
+msgstr "Números de visitas"
+
+msgid "Unique users"
+msgstr "Número de usuarios únicos"
+
+msgid "Percent new sessions"
+msgstr "El porcentaje de nuevos visitantes"
+
+msgid "Page views per session"
+msgstr "Número de visitas en el período de sesiones"
+
+msgid "Most popular pages"
+msgstr "Páginas más populares"
+
+msgid "Most popular keywords"
+msgstr "Más populares palabras clave"
+
+msgid "Enable IP Anonymization"
+msgstr "Activar el anonimato de direcciones IP"
+
+msgid "Google Analytics Service has reported that the analytics data is still not available.<br>Once Google Analytics account  is connected, usually it can take up to 24 hours to show the stats data."
+msgstr "El servicio de Google Analytics ha informado de que los datos de análisis aún no están disponibles. <br> Una vez que la cuenta de Google Analytics está conectada, normalmente puede tardar hasta 24 horas en mostrar los datos de estadísticas."
+
+msgid ""
+"Dear User,\n"
+"\n"
+"Since your website was recently added in Google Analytics account,\n"
+"usually it takes up to 24 hours to collect data about your website.\n"
+"For now, Google Analytics Service has reported, that the analytics data (stats data) is still not available for your website.\n"
+"\n"
+"Please, have a patience, wait up to 24 hours and check this page again.\n"
+"\n"
+"Thank you for understanding!"
+msgstr ""
+"Querido usuario,\n"
+"\n"
+"Dado que su sitio web se agregó recientemente en la cuenta de Google Analytics,\n"
+"Por lo general tarda hasta 24 horas para recopilar datos sobre su sitio web.\n"
+"Por ahora, Google Analytics Service ha informado de que los datos analíticos (datos de estadísticas) aún no están disponibles para su sitio web.\n"
+"\n"
+"Por favor, tenga paciencia, espere hasta 24 horas y vuelva a revisar esta página.\n"
+"\n"
+"¡Gracias por entender!"
+
+msgid "Appear in menu for admins only"
+msgstr "Aparecer en el menú sólo para administradores"

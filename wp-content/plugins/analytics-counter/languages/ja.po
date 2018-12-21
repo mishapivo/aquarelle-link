@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics Counter Tracker\n"
+"POT-Creation-Date: 2016-08-12 14:36+0400\n"
+"PO-Revision-Date: 2017-05-10 23:05+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: analytics-counter.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "Audience Overview"
+msgstr "聴講者の視察"
+
+msgid "Visitors Overview"
+msgstr "入場者の視察"
+
+msgid "settings"
+msgstr "調整"
+
+msgid "Google Analytics service was unable to determine the site"
+msgstr "Google Analyticsサービスはサイトを確かめられませんでした"
+
+msgid "Select a site"
+msgstr "サイトを選択してください"
+
+msgid "Connect Google Analytics services"
+msgstr "Google Analyticsサービスを接続します"
+
+msgid "Create Google Analytics account"
+msgstr "Google Analyticsアカウントを作成します"
+
+msgid "Since Google Analytics account was successfully created, please, connect the Google Analytics created account to this Google Analytics plugin, using the same access credentials data."
+msgstr "Google Analyticsアカウント、もう、作成したら、これを接続し、同じのアカウント・データを使用してください"
+
+msgid "Automatically generate Google Analytics Code"
+msgstr "自動的にGoogle Analytics追跡コードを発振します"
+
+msgid "Manually past Google Analytics Code"
+msgstr "Google Analytics追跡コードの手動の入力"
+
+msgid "Click here to <a href=\"%s\">connect your Google Analytics account</a>, automatically generate Google Analytics code <br>and automatically past Google Analytics code in your website."
+msgstr "追跡コードを自動的に発振するため、 または、自動的にこれをサイトに配置するため、<a href=\"%s\">Google Analytics<br>アカウントを接続する</a>を押し付けてください。"
+
+msgid "Manually past Google Analytics сode in HTML of your website, without to connect to Google Analytics services. More information about this you can read on <a href=\"https://support.google.com/analytics/answer/1008080\">Google Analytics support</a> pages."
+msgstr "Google Analyticsサービスを接続しなくて、サイトに手動でGoogle Analytics追跡コードの入力。追跡コードについてもっと多い情報を<a href=\"https://support.google.com/analytics/answer/1008080\">というGoogle Analytics</a>を応援するページで読んでください。"
+
+msgid "Please, past your Google Analytics code here:"
+msgstr "ここでGoogle Analytics追跡コードを入力してください"
+
+msgid "Save and integrate Google Analytics code"
+msgstr "Google Analytics追跡コードを保存し、接続します"
+
+msgid "The site reports about error! Please deactivate and activate plugin"
+msgstr "サイトはエラーについて通知しました！プラグインを切断して、もう一度、活性化してください"
+
+msgid "Google Analytics service reports"
+msgstr " Google Analyticsサービスは通知しました"
+
+msgid "The site reports"
+msgstr "サイトは通知しました"
+
+msgid "Suggestion"
+msgstr "提案"
+
+msgid "Thanks for your suggestion!"
+msgstr "ご提案、ありがとうございました！"
+
+msgid "Within next plugin updates we will try to satisfy your request."
+msgstr "プラグインの次の更新にて、願いを実行できるように頑張ります。"
+
+msgid "At your website the mail functionality is not available."
+msgstr "サイトではメールの発送ができません"
+
+msgid "Your request was not sent."
+msgstr "申し込みを発送しませんでした。"
+
+msgid "close"
+msgstr "閉じる"
+
+msgid "Send suggestion"
+msgstr "提案を発送します"
+
+msgid "Account"
+msgstr "アカウント"
+
+msgid "Integration"
+msgstr "統合"
+
+msgid "Widget"
+msgstr "ウィジェット"
+
+msgid "Google Analytics Account"
+msgstr " Google Analyticsアカウント"
+
+msgid "Site"
+msgstr "サイト"
+
+msgid "loading..."
+msgstr "ロード中・・・"
+
+msgid "Enable google analytics tracking code on subpages of selected website"
+msgstr "サイトのページでGoogle Analytics追跡コードを入れます。"
+
+msgid "Status"
+msgstr "モード"
+
+msgid "connected"
+msgstr "入れた"
+
+msgid "Are you sure you want to disconnect from your Google Analytics account?"
+msgstr "Google Analyticsアカウントをプラグインから切断すると確信しますか。"
+
+msgid "Disconnect your Google Analytics Account"
+msgstr "Google Analyticsアカウントをプラグインから切断します"
+
+msgid "User does not have any Google Analytics account"
+msgstr "ユーザーはGoogle Analyticsアカウントが一つもありません"
+
+msgid "Counter on the page/post"
+msgstr "メッセージ・ページのレジスター"
+
+msgid "Contains information about the quantity of page views today, for the last month and for all time tracking."
+msgstr "今日、最後の一ヶ月、すべての追跡のページ観覧についての情報を含めます。"
+
+msgid "Display counter"
+msgstr "レジスターを提示します"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Location counter"
+msgstr "位置"
+
+msgid "Before the content"
+msgstr "内容の前"
+
+msgid "The counter will be inserted between the title and the content of the page / post"
+msgstr "レジスターはメッセージの目次や内容の間に挿入します"
+
+msgid "After the content"
+msgstr "内容の後"
+
+msgid "The counter will be inserted after the content of the page / post"
+msgstr "レジスターはメッセージの内容の後で挿入します"
+
+msgid "Template counter"
+msgstr "パターン"
+
+msgid "Customize the html template of the counter."
+msgstr "レジスターのhtml-パータンを調整してください。"
+
+msgid "Use <a href=\"%s\" class=\"thickbox\">shortcodes</a> that would indicate specific indicators"
+msgstr " 具体的な指標を指定するために、<a href=\"%s\" class=\"thickbox\">ショート・コード</a>を利用してください。"
+
+msgid "Then this template can be used anywhere by inserting the shortcode <code>%s</code>, even if the counter display is turned off."
+msgstr "後は、<a href=\"%s\" class=\"thickbox\">ショート・コード</a>を入れたら、レジスターのイメージ が切断しても、このパータンをどこでも利用できます。"
+
+msgid "restore the default template"
+msgstr "デフォルトのパータンを回復します。"
+
+msgid "The counter on the page the list of pages/posts"
+msgstr "メッセージの一覧のレジスター"
+
+msgid "Website counter"
+msgstr "サイトのレジスター"
+
+msgid "Contains information about the quantity of site views today, for the last month and for all time tracking."
+msgstr "今日、最後の一ヶ月、すべての追跡のページ観覧数についての情報を含めます。"
+
+msgid "Save"
+msgstr "変更を保存します"
+
+msgid "The template for counter displaying can be specified in the plugin settings."
+msgstr "イメージするためのパータンはプラグインの調整にて指定します。"
+
+msgid "Views today for a particular page. If the parameter <code>request_uri</code> specified, - the indicator of the current page will be showed."
+msgstr "あるページの今日の観覧数。 'request_uri\"というパラメータを指定したら、経過しつつあるページの指標を指定します。"
+
+msgid "Views last monthfor a particular page. If the parameter \"request_uri\" specified, - the indicator of the current page will be showed."
+msgstr "あるページの最後の一ヶ月の観覧数。  'request_uri\"というパラメータを指定したら、経過しつつあるページの指標を指定します。"
+
+msgid "All views for a particular page. If the parameter \"request_uri\" specified, - the indicator of the current page will be showed."
+msgstr "あるぺーじのすべての追跡のページ観覧数。 'request_uri\"というパラメータを指定したら、経過しつつあるページの指標を指定します。"
+
+msgid "Site Views for Today"
+msgstr "今日のサイトの観覧数"
+
+msgid "Site Views for the last month"
+msgstr "最後の一ヶ月のサイト観覧数"
+
+msgid "Site Views for All tracking period"
+msgstr "サイトのすべての追跡の観覧数"
+
+msgid "Frontend counter widget"
+msgstr "ウィジェット"
+
+msgid "Location of widget for the website pages can be configured on the page <a href=\"%s\">Widgets</a>"
+msgstr "サイトのページにてウィジェットの配置<a href=\"%s\">Widgets</a>というページで調整します"
+
+msgid "Display widget"
+msgstr "ウィジェットを反映します"
+
+msgid "Title"
+msgstr "目次"
+
+msgid "Widget template"
+msgstr "パータン"
+
+msgid "Customize the html template of the widget."
+msgstr "ウィジェットの html-パータンを調整してください。"
+
+msgid "Date range"
+msgstr "範囲"
+
+msgid "Group statistics data by"
+msgstr "にて分類する"
+
+msgid "Hour"
+msgstr "時"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Week"
+msgstr "週"
+
+msgid "Month"
+msgstr "月"
+
+msgid "If you have any suggestions or wishes"
+msgstr "もし、ご提案、ご希望がありましたら"
+
+msgid "Contact us"
+msgstr "弊社に連絡してください"
+
+msgid "Settings"
+msgstr "調整"
+
+msgid "Users"
+msgstr "入場者"
+
+msgid "New users"
+msgstr "新しい入場者"
+
+msgid "All unique users and new users"
+msgstr "すべての湯ユニークな入場者または新しい入場者"
+
+msgid "Top countries by users"
+msgstr "国でトップ"
+
+msgid "Geo statistics data by users"
+msgstr "地図で"
+
+msgid "Top browsers"
+msgstr "ブラウザのトップ"
+
+msgid "Top operating systems"
+msgstr "オペレーティングシステムのトップ"
+
+msgid "Top screen resolutions"
+msgstr "画面の解像度のトップ"
+
+msgid "Sessions and page views"
+msgstr "ページの会期や観覧"
+
+msgid "Sessions"
+msgstr "会期数"
+
+msgid "Page views"
+msgstr "観覧数"
+
+msgid "Unique users"
+msgstr "ユニークなユーザー数"
+
+msgid "Percent new sessions"
+msgstr "新しい入場者の率"
+
+msgid "Page views per session"
+msgstr "会期にて観覧数"
+
+msgid "Most popular pages"
+msgstr "一番人気があるベーじ"
+
+msgid "Most popular keywords"
+msgstr "一番人気があるキーワード"
+
+msgid "Enable IP Anonymization"
+msgstr "めの匿名化のIPアドレス"
+
+msgid "Google Analytics Service has reported that the analytics data is still not available.<br>Once Google Analytics account  is connected, usually it can take up to 24 hours to show the stats data."
+msgstr "Googleアナリティクスサービスでは、アナリティクスデータがまだ利用できないと報告されています。<br> Googleアナリティクスアカウントが接続されると、通常、統計データを表示するまでに最大24時間かかることがあります。"
+
+msgid ""
+"Dear User,\n"
+"\n"
+"Since your website was recently added in Google Analytics account,\n"
+"usually it takes up to 24 hours to collect data about your website.\n"
+"For now, Google Analytics Service has reported, that the analytics data (stats data) is still not available for your website.\n"
+"\n"
+"Please, have a patience, wait up to 24 hours and check this page again.\n"
+"\n"
+"Thank you for understanding!"
+msgstr ""
+"親愛なるユーザー、\n"
+"\n"
+"あなたのウェブサイトは最近Googleアナリティクスアカウントに追加されたため、\n"
+"通常、ウェブサイトに関するデータを収集するまでに最大24時間かかります。\n"
+"現時点では、Analyticsデータ（統計データ）はまだお客様のウェブサイトで利用できないとGoogleアナリティクスサービスから報告されています。\n"
+"\n"
+"忍耐強く、24時間を待ってこのページをもう一度チェックしてください。\n"
+"\n"
+"理解していただきありがとうございます！"
+
+msgid "Appear in menu for admins only"
+msgstr "管理者だけのメニューに表示されます"

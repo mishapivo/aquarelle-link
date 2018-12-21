@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics Counter Tracker\n"
+"POT-Creation-Date: 2016-08-12 14:36+0400\n"
+"PO-Revision-Date: 2017-05-10 23:05+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: analytics-counter.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "Audience Overview"
+msgstr "Publiek overzicht"
+
+msgid "Visitors Overview"
+msgstr "Bezoekers overzicht"
+
+msgid "settings"
+msgstr "Instellingen"
+
+msgid "Google Analytics service was unable to determine the site"
+msgstr "Google analytics dienstwas niet in staat om de site te bepalen"
+
+msgid "Select a site"
+msgstr "Selecteer een site"
+
+msgid "Connect Google Analytics services"
+msgstr "Sluit Google analytics diensten"
+
+msgid "Create Google Analytics account"
+msgstr "Maak een Google analytics rekening"
+
+msgid "Since Google Analytics account was successfully created, please, connect the Google Analytics created account to this Google Analytics plugin, using the same access credentials data."
+msgstr "Aangezien Google analytics rekening is aangemaakt, dan kunt u, sluit u de Google Analytics gemaakt account om deze Google Analytics plugin, met dezelfde toegangsgegevens data."
+
+msgid "Automatically generate Google Analytics Code"
+msgstr "Automatisch genereren van Google analytics code"
+
+msgid "Manually past Google Analytics Code"
+msgstr "Handmatig plakken Google analytics code"
+
+msgid "Click here to <a href=\"%s\">connect your Google Analytics account</a>, automatically generate Google Analytics code <br>and automatically past Google Analytics code in your website."
+msgstr "Klik hier om <a href=\"%s\"> sluit u uw Google analytics rekening </a>, automatisch genereren van Google analytics code<br>Kopen en automatisch verleden Google analytics code in uw website."
+
+msgid "Manually past Google Analytics сode in HTML of your website, without to connect to Google Analytics services. More information about this you can read on <a href=\"https://support.google.com/analytics/answer/1008080\">Google Analytics support</a> pages."
+msgstr "Handmatig verleden Google analytics сode in de HTML van uw website, zonder verbinding te maken met Google analytics services. Meer informatie hierover kunt u lezen op <a href=\"https://support.google.com/analytics/answer/1008080\"> Google analytics ondersteuning </a>pages."
+
+msgid "Please, past your Google Analytics code here:"
+msgstr "Gelieve, plak hier uw Google analytics-code:"
+
+msgid "Save and integrate Google Analytics code"
+msgstr "Opslaan en de integratie van Google analytics code"
+
+msgid "The site reports about error! Please deactivate and activate plugin"
+msgstr "De site meldt over fout! Gelieve te deactiveren en plugin weer activeeren"
+
+msgid "Google Analytics service reports"
+msgstr "Google analytics dienst rapporten"
+
+msgid "The site reports"
+msgstr "De site rapporten"
+
+msgid "Suggestion"
+msgstr "Suggestie"
+
+msgid "Thanks for your suggestion!"
+msgstr "Dank u voor uw suggestie !"
+
+msgid "Within next plugin updates we will try to satisfy your request."
+msgstr "Binnen volgende plugin updates zullen we proberen om uw verzoek te voldoen."
+
+msgid "At your website the mail functionality is not available."
+msgstr "Op uw website de e-mail functionaliteit is niet beschikbaar."
+
+msgid "Your request was not sent."
+msgstr "Uw aanvraag is niet verzonden."
+
+msgid "close"
+msgstr "sluiten"
+
+msgid "Send suggestion"
+msgstr "Stuur suggestie"
+
+msgid "Account"
+msgstr "Rekening"
+
+msgid "Integration"
+msgstr "Integratie"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Google Analytics Account"
+msgstr "Google analytics rekening"
+
+msgid "Site"
+msgstr "Website"
+
+msgid "loading..."
+msgstr "laden.."
+
+msgid "Enable google analytics tracking code on subpages of selected website"
+msgstr "Enable google analytics conversiecode op subpagina's van de geselecteerde website"
+
+msgid "Status"
+msgstr "Toestand"
+
+msgid "connected"
+msgstr "aangesloten"
+
+msgid "Are you sure you want to disconnect from your Google Analytics account?"
+msgstr "Weet u zeker dat u wilt loskoppelen van uw Google analytics rekening?"
+
+msgid "Disconnect your Google Analytics Account"
+msgstr "Koppel uw Google analytics van de plugin"
+
+msgid "User does not have any Google Analytics account"
+msgstr "Gebruiker heeft geen Google analytics rekening"
+
+msgid "Counter on the page/post"
+msgstr "Teller op de pagina / post"
+
+msgid "Contains information about the quantity of page views today, for the last month and for all time tracking."
+msgstr "Bevat informatie over de hoeveelheid pageviews vandaag, voor de laatste maand en voor alle tijden tracking."
+
+msgid "Display counter"
+msgstr "Aantonen teller"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nei"
+
+msgid "Location counter"
+msgstr "Positie"
+
+msgid "Before the content"
+msgstr "Voordat de inhoud"
+
+msgid "The counter will be inserted between the title and the content of the page / post"
+msgstr "De teller zal worden ingevoegd tussen de titel en de inhoud van de pagina / post"
+
+msgid "After the content"
+msgstr "Nadat de inhoud"
+
+msgid "The counter will be inserted after the content of the page / post"
+msgstr "De teller zal na de inhoud van de pagina / post worden gestoken"
+
+msgid "Template counter"
+msgstr "Sjabloon"
+
+msgid "Customize the html template of the counter."
+msgstr "Pas de html-sjabloon van de teller."
+
+msgid "Use <a href=\"%s\" class=\"thickbox\">shortcodes</a> that would indicate specific indicators"
+msgstr "Gebruik <a href=\"%s\" class=\"thickbox\"> shortcodes </a> dat specifieke indicatoren zouden wijzen"
+
+msgid "Then this template can be used anywhere by inserting the shortcode <code>%s</code>, even if the counter display is turned off."
+msgstr "Dan is dit sjabloon kan overal worden gebruikt door het invoegen van de shortcode <code>% s </ code>, zelfs wanneer de teller wordt uitgeschakeld."
+
+msgid "restore the default template"
+msgstr "het herstel van de sjabloon bij verstek"
+
+msgid "The counter on the page the list of pages/posts"
+msgstr "De teller op de pagina van de lijst van pagina's / berichten"
+
+msgid "Website counter"
+msgstr "Website teller"
+
+msgid "Contains information about the quantity of site views today, for the last month and for all time tracking."
+msgstr "Bevat informatie over de hoeveelheid van de site vandaag bekijkt, voor de laatste maand en voor alle tijden tracking."
+
+msgid "Save"
+msgstr "Wijzigingen opslaan"
+
+msgid "The template for counter displaying can be specified in the plugin settings."
+msgstr "De sjabloon voor de teller weergave kan worden opgegeven in de plugin instellingen."
+
+msgid "Views today for a particular page. If the parameter <code>request_uri</code> specified, - the indicator of the current page will be showed."
+msgstr "Bekeken vandaag voor een bepaalde pagina. Als de parameter <code> request_uri</code> specified,  - de indicator van de huidige pagina wordt getoond."
+
+msgid "Views last monthfor a particular page. If the parameter \"request_uri\" specified, - the indicator of the current page will be showed."
+msgstr "Bekeken vorige maand voor een bepaalde pagina. Als de parameter \"request_uri\" bedoeld, - de indicator van de huidige pagina wordt getoond."
+
+msgid "All views for a particular page. If the parameter \"request_uri\" specified, - the indicator of the current page will be showed."
+msgstr "Alle weergaven voor een bepaalde pagina. Als de parameter \"request_uri\"  bedoeld, - de indicator van de huidige pagina wordt getoond."
+
+msgid "Site Views for Today"
+msgstr "Site Bekeken  Vandaag"
+
+msgid "Site Views for the last month"
+msgstr "Site Bekeken voor de laatste maand"
+
+msgid "Site Views for All tracking period"
+msgstr "Site Bekeken for All bijhouden periode"
+
+msgid "Frontend counter widget"
+msgstr "Widget"
+
+msgid "Location of widget for the website pages can be configured on the page <a href=\"%s\">Widgets</a>"
+msgstr "Locatie van de widget voor de website pagina's kunnen worden geconfigureerd op de pagina <a href=\"%s\"> Widgets </a>"
+
+msgid "Display widget"
+msgstr "Weergave widget"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Widget template"
+msgstr "Sjabloon"
+
+msgid "Customize the html template of the widget."
+msgstr "Pas de HTML-sjabloon van de widget."
+
+msgid "Date range"
+msgstr "Datumbereik"
+
+msgid "Group statistics data by"
+msgstr "Statistische gegevens groeperen door"
+
+msgid "Hour"
+msgstr "Uren"
+
+msgid "Day"
+msgstr "Dagen"
+
+msgid "Week"
+msgstr "Weken"
+
+msgid "Month"
+msgstr "Maanden"
+
+msgid "If you have any suggestions or wishes"
+msgstr "Als u suggesties of wensen heeft"
+
+msgid "Contact us"
+msgstr "Neem contact met ons op"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Users"
+msgstr "Gebruikers"
+
+msgid "New users"
+msgstr "Nieuwe gebruikers"
+
+msgid "All unique users and new users"
+msgstr "Alle unieke gebruikers en nieuwe gebruikers"
+
+msgid "Top countries by users"
+msgstr "Top countries by users"
+
+msgid "Geo statistics data by users"
+msgstr "Op de kaart"
+
+msgid "Top browsers"
+msgstr "Top browsers"
+
+msgid "Top operating systems"
+msgstr "Top besturingssystemen"
+
+msgid "Top screen resolutions"
+msgstr "Top schermresoluties"
+
+msgid "Sessions and page views"
+msgstr "Sessies en pagina's bekeken"
+
+msgid "Sessions"
+msgstr "Aantal sessies"
+
+msgid "Page views"
+msgstr "Aantal keer bekeken"
+
+msgid "Unique users"
+msgstr "Aantal unieke gebruikers"
+
+msgid "Percent new sessions"
+msgstr "Het percentage nieuwe bezoekers"
+
+msgid "Page views per session"
+msgstr "Pagina's bekeken per sessie"
+
+msgid "Most popular pages"
+msgstr "Meest populaire pagina's"
+
+msgid "Most popular keywords"
+msgstr "Meest populaire zoekwoorden"
+
+msgid "Enable IP Anonymization"
+msgstr "Inschakelen anonimiseren van IP-adressen"
+
+msgid "Google Analytics Service has reported that the analytics data is still not available.<br>Once Google Analytics account  is connected, usually it can take up to 24 hours to show the stats data."
+msgstr "Google Analytics dienst heeft gemeld dat de analytics data is nog niet beschikbaar. <br> Nadat Google Analytics-account is verbonden, meestal kan het tot 24 uur om de statistieken gegevens tonen."
+
+msgid ""
+"Dear User,\n"
+"\n"
+"Since your website was recently added in Google Analytics account,\n"
+"usually it takes up to 24 hours to collect data about your website.\n"
+"For now, Google Analytics Service has reported, that the analytics data (stats data) is still not available for your website.\n"
+"\n"
+"Please, have a patience, wait up to 24 hours and check this page again.\n"
+"\n"
+"Thank you for understanding!"
+msgstr ""
+"Beste gebruiker,\n"
+"\n"
+"Aangezien uw website is onlangs toegevoegd aan Google Analytics-account,\n"
+"Meestal duurt het maximaal 24 uur om gegevens te verzamelen over uw website.\n"
+"Voor nu, is Google Analytics-service heeft gerapporteerd dat de analytics data (statistieken van gegevens) is nog steeds niet beschikbaar voor uw website.\n"
+"\n"
+"Gelieve, hebben een geduld, wachten tot 24 uur en controleer deze pagina opnieuw.\n"
+"\n"
+"Dank u voor uw begrip!"
+
+msgid "Appear in menu for admins only"
+msgstr "Alleen in het menu voor admins te zien"

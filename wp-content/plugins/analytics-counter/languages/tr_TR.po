@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics Counter Tracker\n"
+"POT-Creation-Date: 2016-08-12 14:36+0400\n"
+"PO-Revision-Date: 2017-05-10 23:05+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: analytics-counter.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "Audience Overview"
+msgstr "Hedef Kitle Genel bakışı"
+
+msgid "Visitors Overview"
+msgstr "Ziyaretçiler Genel bakışı"
+
+msgid "settings"
+msgstr "ayarlar"
+
+msgid "Google Analytics service was unable to determine the site"
+msgstr "Google Analytics servisi siteyi belirleyemiyor"
+
+msgid "Select a site"
+msgstr "Site seçin"
+
+msgid "Connect Google Analytics services"
+msgstr "Google Analytics servisi bağlayın"
+
+msgid "Create Google Analytics account"
+msgstr " Google Analytics hesabı oluşturun"
+
+msgid "Since Google Analytics account was successfully created, please, connect the Google Analytics created account to this Google Analytics plugin, using the same access credentials data."
+msgstr "Google Analytics hesabı oluşturuldu ise, lütfen aynı kimlik bilgilerini kullanarak onu bağlayın "
+
+msgid "Automatically generate Google Analytics Code"
+msgstr "Google Analytics izleme kodu otomatik olarak üretmek"
+
+msgid "Manually past Google Analytics Code"
+msgstr "Google Analytics izleme kodunun manuel girişi"
+
+msgid "Click here to <a href=\"%s\">connect your Google Analytics account</a>, automatically generate Google Analytics code <br>and automatically past Google Analytics code in your website."
+msgstr "Google Analytics <br> izleme kodu otomatik olarak üretmek ve web sitesinde yerleştirmek için Google Analytics </a> hesabını bağlamak <a href=\"%s\"> tıklayın"
+
+msgid "Manually past Google Analytics сode in HTML of your website, without to connect to Google Analytics services. More information about this you can read on <a href=\"https://support.google.com/analytics/answer/1008080\">Google Analytics support</a> pages."
+msgstr "Google Analytics izleme kodunun manuel girişi Google Analytics  servisi bağlantısı olmadan sitenize için. İzleme kodu hakkında daha fazla bilgileri <a href=\"https://support.google.com/analytics/answer/1008080\"> Google Analytics desteği </a> sayfalarında okuyun."
+
+msgid "Please, past your Google Analytics code here:"
+msgstr "Lütfen, Google Analytics izleme kodu buraya yazınız"
+
+msgid "Save and integrate Google Analytics code"
+msgstr "Google Analytics izleme kodu bağlamak ve kaydetmek"
+
+msgid "The site reports about error! Please deactivate and activate plugin"
+msgstr "Site bir hata bildirdi! Lütfen, eklenti kapayın ve yeniden etkinleştirin"
+
+msgid "Google Analytics service reports"
+msgstr "Google Analytics servisi bildirdi"
+
+msgid "The site reports"
+msgstr "Site bildirdi"
+
+msgid "Suggestion"
+msgstr "Teklif"
+
+msgid "Thanks for your suggestion!"
+msgstr "Teklifiniz için teşekkürler!"
+
+msgid "Within next plugin updates we will try to satisfy your request."
+msgstr "Aşağıdaki eklentinin güncellemelerinde, İsteğinizi karşılamaya çalışacağız."
+
+msgid "At your website the mail functionality is not available."
+msgstr "Sitenizde posta göndermesi mevcut değildir"
+
+msgid "Your request was not sent."
+msgstr "Başvurunuz gönderilmedi."
+
+msgid "close"
+msgstr "kapat"
+
+msgid "Send suggestion"
+msgstr "Teklif gönder"
+
+msgid "Account"
+msgstr "Hesap"
+
+msgid "Integration"
+msgstr "Entegrasyon"
+
+msgid "Widget"
+msgstr "Parçacık"
+
+msgid "Google Analytics Account"
+msgstr "Google Analytics Hesabı"
+
+msgid "Site"
+msgstr "Site"
+
+msgid "loading..."
+msgstr "yükleme..."
+
+msgid "Enable google analytics tracking code on subpages of selected website"
+msgstr "Site sayfalarında Google Analytics kodunu etkinleştirmek"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "connected"
+msgstr "bağlanılmış"
+
+msgid "Are you sure you want to disconnect from your Google Analytics account?"
+msgstr "Google Analytics Hesabını programcılıktan devre dışı bırakmak istediğinizden emin misiniz?"
+
+msgid "Disconnect your Google Analytics Account"
+msgstr "Google Analytics Hesabını programcılıktan devre dışı bırakmak"
+
+msgid "User does not have any Google Analytics account"
+msgstr "Kullanıcının bir Google Analytics hesabı yok"
+
+msgid "Counter on the page/post"
+msgstr "Mesaj/sayfadaki sayaç"
+
+msgid "Contains information about the quantity of page views today, for the last month and for all time tracking."
+msgstr "Bu sayfa bügün, son bir ay ve tüm takip zamanı süresinde görüntüleme sayısı hakkında bilgi sağlar."
+
+msgid "Display counter"
+msgstr "Sayaç göstermek"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Location counter"
+msgstr "Durum"
+
+msgid "Before the content"
+msgstr "İçerikten önce"
+
+msgid "The counter will be inserted between the title and the content of the page / post"
+msgstr "Sayaç içindekiler tablosu ve yazının içerikleri arasında eklenecektir"
+
+msgid "After the content"
+msgstr "İçerikten sonra"
+
+msgid "The counter will be inserted after the content of the page / post"
+msgstr "Sayaç yazının içeriği sonra eklenecektir"
+
+msgid "Template counter"
+msgstr "Şablon"
+
+msgid "Customize the html template of the counter."
+msgstr "Sayaç html şablonu ayarlayın."
+
+msgid "Use <a href=\"%s\" class=\"thickbox\">shortcodes</a> that would indicate specific indicators"
+msgstr "Belirli göstergeleri belirtmek için <a href=\"%s\" class=\"thickbox\"> kısa kod </a> kullanın."
+
+msgid "Then this template can be used anywhere by inserting the shortcode <code>%s</code>, even if the counter display is turned off."
+msgstr "Sonra bu şablon, sayaç görüntü kapalı olmasına rağmen, kısa kodu <code>%s</code> ekleyerek her yerde kullanılabilir."
+
+msgid "restore the default template"
+msgstr "varsayılan şablonu geri yükleme"
+
+msgid "The counter on the page the list of pages/posts"
+msgstr "Sayaç yazılar listesi sayfasında"
+
+msgid "Website counter"
+msgstr "Site sayacı"
+
+msgid "Contains information about the quantity of site views today, for the last month and for all time tracking."
+msgstr "Bügün, son ay ve tüm izleme zamanı içindeki site görüntüleme hakkında bilgi verir."
+
+msgid "Save"
+msgstr "Değişiklikleri kaydetmek"
+
+msgid "The template for counter displaying can be specified in the plugin settings."
+msgstr "Gösterme şablonu eklenti ayarlarında belirtilir."
+
+msgid "Views today for a particular page. If the parameter <code>request_uri</code> specified, - the indicator of the current page will be showed."
+msgstr "Bugünkü somut sayfa görüntülme sayısı.  'request_uri\" seçeneği varsa, geçerli sayfa için indeksi gösterilir."
+
+msgid "Views last monthfor a particular page. If the parameter \"request_uri\" specified, - the indicator of the current page will be showed."
+msgstr "Geçen ay içindeki somut sayfa görüntülme sayısı.  'request_uri\" seçeneği varsa, geçerli sayfa için indeksi gösterilir."
+
+msgid "All views for a particular page. If the parameter \"request_uri\" specified, - the indicator of the current page will be showed."
+msgstr "Tüm izleme zamanı içindeki görüntüleme sayısı.  'request_uri\" seçeneği varsa, geçerli sayfa için indeksi gösterilir."
+
+msgid "Site Views for Today"
+msgstr "Bugünkü sayfa görüntüleme sayısı"
+
+msgid "Site Views for the last month"
+msgstr "Geçen ay içindeki sayfa görüntüleme sayısı"
+
+msgid "Site Views for All tracking period"
+msgstr "Tüm izleme zamanı içindeki görüntüleme sayısı"
+
+msgid "Frontend counter widget"
+msgstr "Parçacık"
+
+msgid "Location of widget for the website pages can be configured on the page <a href=\"%s\">Widgets</a>"
+msgstr "Site sayfalarında parçacığın bulunduğu yer <a href=\"%s\">Widgets</a> sayfasında ayarlanır"
+
+msgid "Display widget"
+msgstr "Parçacık göstermek"
+
+msgid "Title"
+msgstr "Içindekiler tablosu"
+
+msgid "Widget template"
+msgstr "Şablon"
+
+msgid "Customize the html template of the widget."
+msgstr "Parçacık html şablonu ayarlayın."
+
+msgid "Date range"
+msgstr "Aralık"
+
+msgid "Group statistics data by"
+msgstr "Grup istatistik verileri"
+
+msgid "Hour"
+msgstr "Saat"
+
+msgid "Day"
+msgstr "Gün"
+
+msgid "Week"
+msgstr "Hafta"
+
+msgid "Month"
+msgstr "Ay"
+
+msgid "If you have any suggestions or wishes"
+msgstr "Eğer herhangi bir teklifiniz ya da önerileriniz varsa"
+
+msgid "Contact us"
+msgstr "Bize Ulaşın"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Users"
+msgstr "Ziyaretçiler"
+
+msgid "New users"
+msgstr "Yeni ziyaretçiler"
+
+msgid "All unique users and new users"
+msgstr "Bütün tekil ve yeni ziyaretçiler"
+
+msgid "Top countries by users"
+msgstr "En iyi ülkeler "
+
+msgid "Geo statistics data by users"
+msgstr "Haritada"
+
+msgid "Top browsers"
+msgstr "En iyi Web tarayıcılar"
+
+msgid "Top operating systems"
+msgstr "En iyi işletim sistemleri"
+
+msgid "Top screen resolutions"
+msgstr "En iyi ekran çözünürlükleri"
+
+msgid "Sessions and page views"
+msgstr "Oturum ve sayfalar görüntülemesi"
+
+msgid "Sessions"
+msgstr "Oturum sayısı"
+
+msgid "Page views"
+msgstr "Görüntülme sayısı"
+
+msgid "Unique users"
+msgstr "Benzersiz kullanıcıların sayısı"
+
+msgid "Percent new sessions"
+msgstr "Yeni ziyaretçilerin yüzdesi"
+
+msgid "Page views per session"
+msgstr "Oturumda görüntülenme sayısı"
+
+msgid "Most popular pages"
+msgstr "En popüler sayfalar"
+
+msgid "Most popular keywords"
+msgstr "En popüler anahtar kelimeler"
+
+msgid "Enable IP Anonymization"
+msgstr "Enable IP anonimleştirme-adres"
+
+msgid "Google Analytics Service has reported that the analytics data is still not available.<br>Once Google Analytics account  is connected, usually it can take up to 24 hours to show the stats data."
+msgstr "Google Analytics Service, analiz verilerinin hâlâ mevcut olmadığını bildiriyor. <br> Google Analytics hesabı bağlandıktan sonra, istatistik verilerini göstermek genellikle 24 saate kadar sürebilir."
+
+msgid ""
+"Dear User,\n"
+"\n"
+"Since your website was recently added in Google Analytics account,\n"
+"usually it takes up to 24 hours to collect data about your website.\n"
+"For now, Google Analytics Service has reported, that the analytics data (stats data) is still not available for your website.\n"
+"\n"
+"Please, have a patience, wait up to 24 hours and check this page again.\n"
+"\n"
+"Thank you for understanding!"
+msgstr ""
+"Sevgili Kullanıcı,\n"
+"\n"
+"Web siteniz kısa süre önce Google Analytics hesabına eklendiğinden,\n"
+"Genellikle web sitenizle ilgili veri toplamak 24 saati bulur.\n"
+"Şimdilik, Google Analytics Service, web siteniz için hala analiz verileri (istatistik verileri) bulunmadığını bildirdi.\n"
+"\n"
+"Lütfen sabrınız var, 24 saate kadar bekleyin ve bu sayfayı tekrar kontrol edin.\n"
+"\n"
+"Anlayışın için teşekkürler!"
+
+msgid "Appear in menu for admins only"
+msgstr "Sadece yöneticilerin menülerinde görünün"
